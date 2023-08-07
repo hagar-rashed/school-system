@@ -1,0 +1,11 @@
+{
+    "name": "AcademicYear",
+    "alias": "academicyear",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AcademicYear\\Providers\\AcademicYearServiceProvider"
+    ],
+    "files": []
+}
